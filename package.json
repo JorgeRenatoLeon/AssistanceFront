@@ -32,7 +32,7 @@
     "html2canvas": "^1.0.0-rc.5",
     "jquery": "^3.5.1",
     "jspdf": "^1.5.3",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "pdfobject": "^2.1.1",
     "run": "^1.4.0",
     "sweetalert2": "^9.15.1",
